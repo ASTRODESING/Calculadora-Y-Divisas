@@ -6,9 +6,7 @@ private String divisa1T="";
 private double result;
 
 
-    /**
-     * Creates new form Divisas
-     */
+
     public Divisas() {
         this.setLocationRelativeTo(null);
         initComponents();
